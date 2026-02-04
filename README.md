@@ -1,12 +1,11 @@
-# <div align="center">👋 Krzysztof Bednarczuk</div>
+# <div align="center">Hello Everyone</div>
 
 <div align="center">
   
 ### Senior Software Engineer | Full Stack Developer 🚀
 
-[![Years](https://img.shields.io/badge/Experience-14%2B%20Years-blueviolet?style=for-the-badge)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![Years](https://img.shields.io/badge/Experience-14%2B%20Years-blueviolet?style=for-the-badge)](https://github.com/popstarlets0173)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:beowulf@engineer.com)
 
 </div>
 
@@ -16,7 +15,7 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 I'm a **Senior Software Engineer** with **14+ years** of experience designing and delivering scalable applications across **fintech** and **enterprise systems**. I specialize in **full-stack development**, **machine learning**, **cloud infrastructure**, and **microservices**.
 
@@ -32,7 +31,7 @@ const krzysztof = {
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -88,44 +87,44 @@ const krzysztof = {
 `Python` `AWS` `MLflow` `SageMaker` `PyTorch`
 
 ### Highlights
-- ⚡ **75% reduction** in fraud detection time
-- 🎯 Real-time transaction analysis
-- 🔄 Continuous model retraining pipeline
-- 📊 MLflow integration for experiment tracking
+- **75% reduction** in fraud detection time
+- Real-time transaction analysis
+- Continuous model retraining pipeline
+- MLflow integration for experiment tracking
 
 </details>
 
 <details open>
-<summary><b>🛠️ Full-Stack E-commerce Platform</b></summary>
+<summary><b>Full-Stack E-commerce Platform</b></summary>
 
 ### Tech Stack
 `React` `Node.js` `AWS` `PostgreSQL` `Redis`
 
 ### Highlights
-- 👥 Supporting **5,000+ concurrent users**
-- 💨 Real-time inventory updates
-- 🔐 Secure payment processing
-- 📱 Responsive mobile-first design
+- Supporting **5,000+ concurrent users**
+- Real-time inventory updates
+- Secure payment processing
+- Responsive mobile-first design
 
 </details>
 
 <details open>
-<summary><b>📊 Financial Analytics Tool</b></summary>
+<summary><b>Financial Analytics Tool</b></summary>
 
 ### Tech Stack
 `Python` `Scikit-learn` `PostgreSQL` `Pandas`
 
 ### Highlights
-- 🎯 **92% accuracy** in transaction labeling
-- 📈 Predictive analytics for decision-making
-- 🔍 Advanced data visualization
-- ⚙️ Automated report generation
+- **92% accuracy** in transaction labeling
+- Predictive analytics for decision-making
+- Advanced data visualization
+- Automated report generation
 
 </details>
 
 ---
 
-## ⚡ Key Features & Capabilities
+## Key Features & Capabilities
 
 ```mermaid
 graph LR
@@ -144,20 +143,20 @@ graph LR
 
 | Feature | Technology | Achievement |
 |---------|-----------|-------------|
-| 🚀 Real-time Processing | AWS Lambda, Kafka, PostgreSQL | High-throughput data pipelines |
-| 🔄 CI/CD Automation | Jenkins, GitHub Actions | Zero-downtime deployments |
-| ☁️ Cloud Microservices | Spring Boot, Kubernetes | Scalable architecture |
-| 🤖 ML Model Integration | PyTorch, SageMaker | Real-time fraud detection |
+| Real-time Processing | AWS Lambda, Kafka, PostgreSQL | High-throughput data pipelines |
+| CI/CD Automation | Jenkins, GitHub Actions | Zero-downtime deployments |
+| Cloud Microservices | Spring Boot, Kubernetes | Scalable architecture |
+| ML Model Integration | PyTorch, SageMaker | Real-time fraud detection |
 
 </div>
 
 ---
 
-## 💡 Latest Achievements
+## Latest Achievements
 
 <div align="center">
 
-| 📊 Metric | 🎯 Result | 📈 Impact |
+| Metric | Result | Impact |
 |-----------|-----------|-----------|
 | **Query Performance** | 45% increase | PostgreSQL + Kafka optimization |
 | **System Uptime** | 99.9% | Docker + Kubernetes deployment |
@@ -168,7 +167,7 @@ graph LR
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -185,37 +184,11 @@ graph LR
 
 ---
 
-## 🚀 Quick Start
-
-Get started with any of my projects:
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/your-repo.git
-
-# Navigate to project directory
-cd your-repo
-
-# Install dependencies
-npm install
-# or
-pip install -r requirements.txt
-
-# Run the application
-npm start
-# or
-python main.py
-```
-
----
-
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beowulf@engineer.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
 </div>
@@ -228,6 +201,6 @@ python main.py
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
 
-⭐️ From [Krzysztof Bednarczuk](https://github.com/yourusername)
+From [Popstarlets0173](https://github.com/popstarlets0173)
 
 </div>
