@@ -15,25 +15,8 @@
 
 ---
 
-## About Me
-
-I'm a **Senior Software Engineer** with **14+ years** of experience designing and delivering scalable applications across **fintech** and **enterprise systems**. I specialize in **full-stack development**, **machine learning**, **cloud infrastructure**, and **microservices**.
-
-```javascript
-const krzysztof = {
-    location: "Earth 🌍",
-    experience: "14+ years",
-    specialties: ["Full-Stack", "ML/AI", "Cloud", "Microservices"],
-    currentFocus: "Building scalable, intelligent systems",
-    funFact: "I turn coffee into code ☕️"
-};
-```
-
----
 
 ## Tech Stack
-
-<div align="center">
 
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -73,7 +56,5 @@ const krzysztof = {
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
 
 ---
