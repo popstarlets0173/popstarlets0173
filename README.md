@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm John Doe 👋
 
-<!--
-**popstarlets0173/popstarlets0173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
+I'm a software developer who loves working with:
+- **JavaScript**
+- **Python**
+- **Go**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find my latest projects and contributions here!
+
+## 📈 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnDoe&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+## 📫 How to reach me:
+- Email: john@example.com
+- Website: [www.johndoe.dev](https://www.johndoe.dev)
